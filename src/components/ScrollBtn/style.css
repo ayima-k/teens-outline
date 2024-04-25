@@ -7,5 +7,9 @@
   font-size: 3rem; 
   z-index: 1; 
   cursor: pointer; 
-  color: blue; 
+  color: #00394f ; 
+  transition: .5s;
+}
+.btnScroll:hover{
+  color: #03587a;
 }
